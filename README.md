@@ -1,12 +1,3 @@
-Absolutely — let’s turn this into a **clean, professional, interview-ready README** that actually *sells* your project 💼✨
-I’ll keep it **simple, elegant, and recruiter-friendly**, not over-academic.
-
-Below is a **ready-to-paste `README.md`**.
-You can copy it **as-is**.
-
----
-
-```md
 # 🚀 QuickBook – Service Booking System
 
 QuickBook is a simple and user-friendly **service booking web application** built using PHP and MySQL.  
